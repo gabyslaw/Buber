@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "RBEGYBOlqcSPZFdSHPrbScWRoeVx/Cgz6iHg5MUtBu7rG1ifxugxwUFx+SmG2cMkUu3tdJuB10tS/e/27wib2w==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\BuberDinner\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ayokunle.olowoniwa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\ayokunle.olowoniwa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ayokunle.olowoniwa\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
+    "C:\\Users\\ayokunle.olowoniwa\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.22.0\\microsoft.identitymodel.jsonwebtokens.6.22.0.nupkg.sha512",
+    "C:\\Users\\ayokunle.olowoniwa\\.nuget\\packages\\microsoft.identitymodel.logging\\6.22.0\\microsoft.identitymodel.logging.6.22.0.nupkg.sha512",
+    "C:\\Users\\ayokunle.olowoniwa\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.22.0\\microsoft.identitymodel.tokens.6.22.0.nupkg.sha512",
+    "C:\\Users\\ayokunle.olowoniwa\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.22.0\\system.identitymodel.tokens.jwt.6.22.0.nupkg.sha512",
+    "C:\\Users\\ayokunle.olowoniwa\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
